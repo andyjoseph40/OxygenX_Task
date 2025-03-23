@@ -12,10 +12,10 @@ Tasks
 3. Train at least one machine learning models to predict loan default 
 4. Evaluate models using performance metrics 
 5. Insights and Recommendations
-6. 
+
 Deliverables
-A Jupyter Notebook or Python Script with EDA, model training, and evaluation.
-A short presentation (3-5 slides) summarizing key findings and recommendations.
+A Jupyter Notebook or Python Script with EDA, model training, and evaluation.
+A short presentation (3-5 slides) summarizing key findings and recommendations.
 
 Part 2: SQL Challenges
 Assume the cleaned dataset  is stored in an SQL database called loans_db with a table named loan_data)
