@@ -1,29 +1,18 @@
 Title: Loan Default Prediction for a Digital Lending Fintech
+
 Objective:
 Your task is to analyze historical loan data and build a model that predicts whether a borrower will default on their loan. This is a critical problem in digital lending, as it helps optimize credit decisions and minimize risk.
 Dataset
 The dataset provided contains information on past borrowers, including demographic details, financial behavior, and loan performance.
 Dataset Columns:
-loan_id: Unique identifier for the loan
-customer_id: Unique identifier for the borrower
-age: Age of the borrower
-gender: Male/Female
-income: Monthly income of the borrower (in NGN)
-loan_amount: Loan amount taken
-tenure_months: Loan duration in months
-credit_score: A score between 300-850
-employment_status: Full-time, Part-time, Self-employed, Unemployed
-bank_balance: Current balance in the borrower's bank account
-number_of_loans: Number of loans the borrower currently has
-missed_payments: Number of past missed payments
-defaulted: Target variable (1 = Default, 0 = No Default)
 
 Tasks
 1. EDA on the dataset provided
 2. Create  new features
 3. Train at least one machine learning models to predict loan default 
 4. Evaluate models using performance metrics 
-5. Insights and Recommendations 
+5. Insights and Recommendations
+6. 
 Deliverables
 A Jupyter Notebook or Python Script with EDA, model training, and evaluation.
 A short presentation (3-5 slides) summarizing key findings and recommendations.
